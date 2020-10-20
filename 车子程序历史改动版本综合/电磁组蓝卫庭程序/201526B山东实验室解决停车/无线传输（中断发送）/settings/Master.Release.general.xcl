@@ -1,0 +1,15 @@
+"E:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armproc.dll" 
+
+"E:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armjlink.dll" 
+
+"C:\Users\xuliang\Desktop\电轨\201526B山东实验室解决停车\无线传输（中断发送）\Release\Exe\fire_gpio_demo.out" 
+
+--plugin "E:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armbat.dll" 
+
+--device_macro "E:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\config\debugger\Freescale\Kxx.dmac" 
+
+--flash_loader "E:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\config\flashloader\Freescale\FlashK60Dxxx128K.board" 
+
+
+
+

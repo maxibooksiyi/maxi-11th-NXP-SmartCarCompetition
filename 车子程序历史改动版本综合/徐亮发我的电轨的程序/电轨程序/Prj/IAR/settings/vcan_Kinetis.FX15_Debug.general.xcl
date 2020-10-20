@@ -1,0 +1,15 @@
+"E:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armproc.dll" 
+
+"E:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armjlink.dll" 
+
+"C:\Users\xuliang\Desktop\浮点科技电轨组金属传感器模块驱动代码2\Prj\IAR\FX15_Debug\Exe\vcan_Kinetis.out" 
+
+--plugin "E:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armbat.dll" 
+
+--device_macro "E:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\config\debugger\Freescale\Kxx.dmac" 
+
+--flash_loader "E:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\config\flashloader\Freescale\FlashK60Fxxx128K.board" 
+
+
+
+
